@@ -8,6 +8,9 @@
  
 ### I am excited to share my excel dashboard  
 # Insight
+
+<img width="1153" alt="image" src="https://github.com/user-attachments/assets/6d8bfbd2-8710-48fd-8cb7-1e02752aeb38" />
+
  The total number of goals from inception of World Cup till 2014 is 2414. 
  Home Team recorded a greater number of goals (1543)won than the Away team (871).  
  Brazil got to the final stage 6times and won 5 times ; close with #Italy that got to the final #stage 6times also but won 4times.  
